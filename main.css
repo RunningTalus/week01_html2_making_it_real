@@ -1,0 +1,36 @@
+aside {
+	height: 250px;
+	width:200px;
+	border: solid;
+	background-color: orange;
+	position: absolute;
+	float: right;
+}
+
+.container {
+	display: inline-block;
+	position: relative;
+	width: 960px;
+	height: 3000px;
+	background-color: #ECF0F1;
+}
+
+body {
+	width: 800px;
+	float: none;
+}
+
+header {
+	height: 250px;
+	background-color: #2ECC71;
+}
+
+h1 {
+	color: white;
+}
+
+nav {
+	background-color: #34495E;
+	color: white;
+}
+
